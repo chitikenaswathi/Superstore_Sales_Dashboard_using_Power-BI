@@ -12,4 +12,9 @@ Providing valuable insights to business entities regarding the effectiveness of 
 Leveraging Historic data and apply time series to generate sales forecasts for next 15 days.
 ## 4. Actionable Insights and Recommendations:
 My End Goal is to Find Insights and Actionable information that can drive Strategic decision support the supermarket's goal for growth, efficiency, satisfaction.
+# Dashboard Image
+![Superstore Sales Dashboard](https://github.com/user-attachments/assets/67ec9b14-e3f8-41a9-9bcb-dbf25e34cb99)
+# Forcasting Image
+![Superstore Sales Forecasting Dashboard](https://github.com/user-attachments/assets/7c4c2d1d-a4f7-4430-bc7f-a90bfdd585e2)
+
 
