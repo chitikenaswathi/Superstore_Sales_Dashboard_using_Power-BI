@@ -5,7 +5,7 @@
 In this Project, I have Contributed to the Success of a business by utilizing data analysis techniques, Specifically Focusing on time series Analysis, to provide valuable insights and accurate Sales Forecasting.
 # Description
 ## 1. Dashboard Creation:
-Identifying the KPK, design and intuitive and visually appealing dashboard,add interactive visualizations.
+Identifying the KPIs, design and intuitive and visually appealing dashboard,add interactive visualizations.
 ## 2. Data Analysis:
 Providing valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and Charts.
 ## 3. Sales Forecasting:
